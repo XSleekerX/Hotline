@@ -10,7 +10,7 @@ local inspmessages = {
 	"You are enough",
 	"Put the gun down!",
 	"It's okay to take a break.",
-	"Just keep going."
+	"Just keep going.",
 	"Tough times are what make us human.",
   "1-800-784-2433",
 	"You know what? I actually don't give a shit. Fucking do it..",
