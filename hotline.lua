@@ -22,7 +22,7 @@ plugin.commands['/hotline'] = {
 	call = function (ply, man, _)
 	assert(man, "not spawned in.")
 		if man.isAlive == true then
-		ply:sendMessage( inspmessages[math.random(#inspmessages)])
+		ply:sendMessage(inspmessages[math.random(#inspmessages)])
 		end
 	end
 }
